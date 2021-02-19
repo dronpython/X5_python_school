@@ -1,0 +1,616 @@
+2020-09-24T21:16:49.423315+0300 - __main__ - Start collecting data for 10 users
+2020-09-24T21:16:49.434547+0300 - __main__ - Start parsing for Sincere@april.biz
+2020-09-24T21:16:56.514583+0300 - __main__ - Collect all data from https://jsonplaceholder.typicode.com/users/{}/posts by 0.7034769058227539
+2020-09-24T21:29:39.268928+0300 - __main__ - Open emails file emails.csv
+2020-09-24T21:29:39.269926+0300 - __main__ - Reading data...
+2020-09-24T21:29:39.270923+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users
+2020-09-24T21:29:39.350888+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users by 0.07996463775634766
+2020-09-24T21:29:57.268811+0300 - __main__ - Start collecting data for 10 users
+2020-09-24T21:39:04.923995+0300 - __main__ - Open emails file emails.csv
+2020-09-24T21:39:04.923995+0300 - __main__ - Reading data...
+2020-09-24T21:39:04.923995+0300 - __main__ - Data successfully read
+2020-09-24T21:39:04.923995+0300 - __main__ - Collecting data about users
+2020-09-24T21:39:04.924992+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users
+2020-09-24T21:39:04.982837+0300 - __main__ - Catch error while getting data! Error ('Connection aborted.', FileNotFoundError(2, 'No such file or directory'))
+2020-09-24T21:39:04.982837+0300 - __main__ - Start collecting data for 0 users
+2020-09-24T21:39:55.765199+0300 - __main__ - Open emails file emails.csv
+2020-09-24T21:39:55.765199+0300 - __main__ - Reading data...
+2020-09-24T21:39:55.766197+0300 - __main__ - Data successfully read
+2020-09-24T21:39:55.766197+0300 - __main__ - Collecting data about users
+2020-09-24T21:39:55.766197+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users
+2020-09-24T21:39:55.844613+0300 - __main__ - Catch error while getting data! Error ('Connection aborted.', FileNotFoundError(2, 'No such file or directory'))
+2020-09-24T21:39:55.844613+0300 - __main__ - Start collecting data for 0 users
+2020-09-24T21:40:59.418770+0300 - __main__ - Open emails file emails.csv
+2020-09-24T21:40:59.419764+0300 - __main__ - Reading data...
+2020-09-24T21:40:59.420796+0300 - __main__ - Data successfully read
+2020-09-24T21:41:04.904693+0300 - __main__ - Collecting data about users
+2020-09-24T21:41:07.219407+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users
+2020-09-24T21:41:07.490721+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users by 0.2713141441345215
+2020-09-24T21:41:16.211027+0300 - __main__ - Start collecting data for 10 users
+2020-09-24T21:41:19.598441+0300 - __main__ - Start parsing for Sincere@april.biz
+2020-09-24T21:41:20.896256+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/posts
+2020-09-24T21:41:21.003040+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/posts by 0.10678386688232422
+2020-09-24T21:41:22.758183+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/albums
+2020-09-24T21:41:22.873276+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/albums by 0.11509346961975098
+2020-09-24T21:41:24.369790+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/todos
+2020-09-24T21:41:24.513245+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/todos by 0.14345455169677734
+2020-09-24T21:41:27.511520+0300 - __main__ - Start parsing for Shanna@melissa.tv
+2020-09-24T21:41:27.894396+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/posts
+2020-09-24T21:41:28.035855+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/posts by 0.14145922660827637
+2020-09-24T21:41:28.097691+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/albums
+2020-09-24T21:41:28.219365+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/albums by 0.1216740608215332
+2020-09-24T21:41:28.672248+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/todos
+2020-09-24T21:41:28.796042+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/todos by 0.12379336357116699
+2020-09-24T21:41:29.247248+0300 - __main__ - Start parsing for Nathan@yesenia.net
+2020-09-24T21:41:29.285148+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/posts
+2020-09-24T21:41:29.710215+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/posts by 0.4250671863555908
+2020-09-24T21:41:29.734151+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/albums
+2020-09-24T21:41:30.135264+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/albums by 0.40111255645751953
+2020-09-24T21:41:30.190363+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/todos
+2020-09-24T21:41:30.606698+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/todos by 0.4163353443145752
+2020-09-24T21:41:31.240423+0300 - __main__ - Start parsing for Julianne.OConner@kory.org
+2020-09-24T21:41:31.294278+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/posts
+2020-09-24T21:41:32.754376+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/posts by 1.4591007232666016
+2020-09-24T21:41:33.806564+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/albums
+2020-09-24T21:41:34.575537+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/albums by 0.7689738273620605
+2020-09-24T21:41:34.611571+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/todos
+2020-09-24T21:41:34.999993+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/todos by 0.38842129707336426
+2020-09-24T21:41:35.163075+0300 - __main__ - Start parsing for Lucio_Hettinger@annie.ca
+2020-09-24T21:41:35.227902+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/posts
+2020-09-24T21:41:35.618557+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/posts by 0.3906550407409668
+2020-09-24T21:41:35.669522+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/albums
+2020-09-24T21:41:36.061584+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/albums by 0.3920614719390869
+2020-09-24T21:41:36.100453+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/todos
+2020-09-24T21:41:36.485011+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/todos by 0.38455796241760254
+2020-09-24T21:41:37.100729+0300 - __main__ - Start parsing for Karley_Dach@jasper.info
+2020-09-24T21:41:37.151605+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/posts
+2020-09-24T21:41:37.529774+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/posts by 0.37816882133483887
+2020-09-24T21:41:37.588867+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/albums
+2020-09-24T21:41:37.995063+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/albums by 0.40619659423828125
+2020-09-24T21:41:38.044931+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/todos
+2020-09-24T21:41:38.439156+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/todos by 0.3942246437072754
+2020-09-24T21:41:38.539599+0300 - __main__ - Start parsing for Telly.Hoeger@billy.biz
+2020-09-24T21:41:38.610746+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/posts
+2020-09-24T21:41:39.010861+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/posts by 0.4001152515411377
+2020-09-24T21:41:39.044874+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/albums
+2020-09-24T21:41:39.451560+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/albums by 0.40668654441833496
+2020-09-24T21:41:39.496479+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/todos
+2020-09-24T21:41:39.878632+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/todos by 0.382152795791626
+2020-09-24T21:41:40.062447+0300 - __main__ - Start parsing for Sherwood@rosamond.me
+2020-09-24T21:41:40.123276+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/posts
+2020-09-24T21:41:40.528143+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/posts by 0.40486764907836914
+2020-09-24T21:41:40.588199+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/albums
+2020-09-24T21:41:40.997216+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/albums by 0.40901756286621094
+2020-09-24T21:41:41.048163+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/todos
+2020-09-24T21:41:41.458820+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/todos by 0.4106564521789551
+2020-09-24T21:41:41.616745+0300 - __main__ - Start parsing for Chaim_McDermott@dana.io
+2020-09-24T21:41:41.665671+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/posts
+2020-09-24T21:41:42.087143+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/posts by 0.42147159576416016
+2020-09-24T21:41:42.135576+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/albums
+2020-09-24T21:41:42.532516+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/albums by 0.396939754486084
+2020-09-24T21:41:42.573370+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/todos
+2020-09-24T21:41:42.958887+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/todos by 0.385516881942749
+2020-09-24T21:41:43.452463+0300 - __main__ - Start parsing for Rey.Padberg@karina.biz
+2020-09-24T21:41:43.490365+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/posts
+2020-09-24T21:41:43.887892+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/posts by 0.39752697944641113
+2020-09-24T21:41:43.925122+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/albums
+2020-09-24T21:41:44.323663+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/albums by 0.398540735244751
+2020-09-24T21:41:44.383707+0300 - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/todos
+2020-09-24T21:41:44.819850+0300 - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/todos by 0.436143159866333
+2020-09-24T21:57:05.598601+0300 - INFO - __main__ - Open emails file emails.csv
+2020-09-24T21:57:05.598601+0300 - INFO - __main__ - Reading data...
+2020-09-24T21:57:05.598601+0300 - INFO - __main__ - Data successfully read
+2020-09-24T21:57:05.599628+0300 - INFO - __main__ - Collecting data about users
+2020-09-24T21:57:05.599628+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users
+2020-09-24T21:57:06.562159+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users by 0.9625310897827148
+2020-09-24T21:57:06.563153+0300 - INFO - __main__ - Start collecting data for 10 users
+2020-09-24T21:57:06.563153+0300 - INFO - __main__ - Start parsing for Sincere@april.biz
+2020-09-24T21:57:06.563153+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/posts
+2020-09-24T21:57:06.684770+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/posts by 0.12161803245544434
+2020-09-24T21:57:06.684770+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/albums
+2020-09-24T21:57:06.800695+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/albums by 0.11592507362365723
+2020-09-24T21:57:06.800695+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/todos
+2020-09-24T21:57:06.950664+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/todos by 0.14996886253356934
+2020-09-24T22:00:27.124132+0300 - INFO - __main__ - Open emails file emails.csv
+2020-09-24T22:00:27.125130+0300 - INFO - __main__ - Reading data...
+2020-09-24T22:00:27.125130+0300 - INFO - __main__ - Data successfully read
+2020-09-24T22:00:27.125130+0300 - INFO - __main__ - Collecting data about users
+2020-09-24T22:00:27.125130+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users
+2020-09-24T22:00:27.277722+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users by 0.15259242057800293
+2020-09-24T22:00:27.278719+0300 - INFO - __main__ - Start collecting data for 10 users
+2020-09-24T22:00:27.278719+0300 - INFO - __main__ - Start parsing for Sincere@april.biz
+2020-09-24T22:00:27.278719+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/posts
+2020-09-24T22:00:28.022759+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/posts by 0.7430429458618164
+2020-09-24T22:00:28.022759+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/albums
+2020-09-24T22:00:28.876481+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/albums by 0.853722095489502
+2020-09-24T22:00:28.876481+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/todos
+2020-09-24T22:00:29.020157+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/todos by 0.1436753273010254
+2020-09-24T22:00:29.023148+0300 - INFO - __main__ - Start parsing for Shanna@melissa.tv
+2020-09-24T22:00:29.023148+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/posts
+2020-09-24T22:00:29.161376+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/posts by 0.1382279396057129
+2020-09-24T22:00:29.161376+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/albums
+2020-09-24T22:00:29.292560+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/albums by 0.13118362426757812
+2020-09-24T22:00:29.292560+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/todos
+2020-09-24T22:00:29.482053+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/todos by 0.18949389457702637
+2020-09-24T22:00:29.484048+0300 - INFO - __main__ - Start parsing for Nathan@yesenia.net
+2020-09-24T22:00:29.484048+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/posts
+2020-09-24T22:00:30.024142+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/posts by 0.5400934219360352
+2020-09-24T22:00:30.024142+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/albums
+2020-09-24T22:00:30.614586+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/albums by 0.5904440879821777
+2020-09-24T22:00:30.614586+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/todos
+2020-09-24T22:00:30.733719+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/todos by 0.11913299560546875
+2020-09-24T22:00:30.735714+0300 - INFO - __main__ - Start parsing for Julianne.OConner@kory.org
+2020-09-24T22:00:30.735714+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/posts
+2020-09-24T22:00:30.875074+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/posts by 0.1393594741821289
+2020-09-24T22:00:30.875074+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/albums
+2020-09-24T22:00:30.977924+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/albums by 0.10285019874572754
+2020-09-24T22:00:30.977924+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/todos
+2020-09-24T22:00:31.086634+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/todos by 0.10870933532714844
+2020-09-24T22:00:31.088601+0300 - INFO - __main__ - Start parsing for Lucio_Hettinger@annie.ca
+2020-09-24T22:00:31.088601+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/posts
+2020-09-24T22:00:31.233266+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/posts by 0.14466524124145508
+2020-09-24T22:00:31.233266+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/albums
+2020-09-24T22:00:31.365009+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/albums by 0.1317429542541504
+2020-09-24T22:00:31.365009+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/todos
+2020-09-24T22:00:31.509636+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/todos by 0.14462733268737793
+2020-09-24T22:00:31.511585+0300 - INFO - __main__ - Start parsing for Karley_Dach@jasper.info
+2020-09-24T22:00:31.511585+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/posts
+2020-09-24T22:00:31.629505+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/posts by 0.1179206371307373
+2020-09-24T22:00:31.630506+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/albums
+2020-09-24T22:00:31.742282+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/albums by 0.11177682876586914
+2020-09-24T22:00:31.743254+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/todos
+2020-09-24T22:00:31.901484+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/todos by 0.15822935104370117
+2020-09-24T22:00:31.902481+0300 - INFO - __main__ - Start parsing for Telly.Hoeger@billy.biz
+2020-09-24T22:00:31.903478+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/posts
+2020-09-24T22:00:32.013184+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/posts by 0.10970568656921387
+2020-09-24T22:00:32.014182+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/albums
+2020-09-24T22:00:32.145848+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/albums by 0.13166546821594238
+2020-09-24T22:00:32.146843+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/todos
+2020-09-24T22:00:32.292011+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/todos by 0.14516854286193848
+2020-09-24T22:00:32.294006+0300 - INFO - __main__ - Start parsing for Sherwood@rosamond.me
+2020-09-24T22:00:32.294006+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/posts
+2020-09-24T22:00:32.452163+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/posts by 0.1581566333770752
+2020-09-24T22:00:32.453160+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/albums
+2020-09-24T22:00:32.565866+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/albums by 0.11270642280578613
+2020-09-24T22:00:32.566862+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/todos
+2020-09-24T22:00:32.701842+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/todos by 0.1349804401397705
+2020-09-24T22:00:32.703832+0300 - INFO - __main__ - Start parsing for Chaim_McDermott@dana.io
+2020-09-24T22:00:32.703832+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/posts
+2020-09-24T22:00:32.814728+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/posts by 0.11089563369750977
+2020-09-24T22:00:32.814728+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/albums
+2020-09-24T22:00:32.914854+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/albums by 0.10012531280517578
+2020-09-24T22:00:32.914854+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/todos
+2020-09-24T22:00:33.031220+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/todos by 0.11636638641357422
+2020-09-24T22:00:33.033186+0300 - INFO - __main__ - Start parsing for Rey.Padberg@karina.biz
+2020-09-24T22:00:33.033186+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/posts
+2020-09-24T22:00:33.132750+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/posts by 0.09956479072570801
+2020-09-24T22:00:33.133709+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/albums
+2020-09-24T22:00:33.261091+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/albums by 0.1273813247680664
+2020-09-24T22:00:33.261091+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/todos
+2020-09-24T22:00:33.413827+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/todos by 0.15273618698120117
+2020-09-24T22:03:02.164420+0300 - INFO - __main__ - Open emails file emails.csv
+2020-09-24T22:03:02.165418+0300 - INFO - __main__ - Reading data...
+2020-09-24T22:03:02.165418+0300 - INFO - __main__ - Data successfully read
+2020-09-24T22:03:02.165418+0300 - INFO - __main__ - Collecting data about users
+2020-09-24T22:03:02.165418+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users
+2020-09-24T22:03:02.539721+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users by 0.37430381774902344
+2020-09-24T22:03:02.540719+0300 - INFO - __main__ - Start collecting data for 10 users
+2020-09-24T22:03:02.540719+0300 - INFO - __main__ - Start parsing for Sincere@april.biz
+2020-09-24T22:03:02.540719+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/posts
+2020-09-24T22:03:02.653418+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/posts by 0.11269927024841309
+2020-09-24T22:03:02.653418+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/albums
+2020-09-24T22:03:02.766388+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/albums by 0.11296987533569336
+2020-09-24T22:03:02.767385+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/todos
+2020-09-24T22:03:03.108134+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/todos by 0.34074902534484863
+2020-09-24T22:05:38.669003+0300 - INFO - __main__ - Open emails file emails.csv
+2020-09-24T22:05:38.669003+0300 - INFO - __main__ - Reading data...
+2020-09-24T22:05:38.670001+0300 - INFO - __main__ - Data successfully read
+2020-09-24T22:05:38.670001+0300 - INFO - __main__ - Collecting data about users
+2020-09-24T22:05:38.670001+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users
+2020-09-24T22:05:38.794099+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users by 0.12409806251525879
+2020-09-24T22:05:38.794099+0300 - INFO - __main__ - Start collecting data for 10 users
+2020-09-24T22:05:38.794099+0300 - INFO - __main__ - Start parsing for Sincere@april.biz
+2020-09-24T22:05:38.794099+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/posts
+2020-09-24T22:05:38.905890+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/posts by 0.11179089546203613
+2020-09-24T22:05:38.906856+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/albums
+2020-09-24T22:05:39.026532+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/albums by 0.11967587471008301
+2020-09-24T22:05:39.027529+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/todos
+2020-09-24T22:05:39.162006+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/todos by 0.134476900100708
+2020-09-24T22:05:39.163001+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:05:39.163001+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\1'
+2020-09-24T22:05:39.163001+0300 - INFO - __main__ - Start parsing for Shanna@melissa.tv
+2020-09-24T22:05:39.163001+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/posts
+2020-09-24T22:05:39.312516+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/posts by 0.14951491355895996
+2020-09-24T22:05:39.312516+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/albums
+2020-09-24T22:05:39.439312+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/albums by 0.12679624557495117
+2020-09-24T22:05:39.439312+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/todos
+2020-09-24T22:05:39.553800+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/todos by 0.11448836326599121
+2020-09-24T22:05:39.553800+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:05:39.553800+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\2'
+2020-09-24T22:05:39.554825+0300 - INFO - __main__ - Start parsing for Nathan@yesenia.net
+2020-09-24T22:05:39.554825+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/posts
+2020-09-24T22:05:39.659538+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/posts by 0.10471248626708984
+2020-09-24T22:05:39.659538+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/albums
+2020-09-24T22:05:39.779843+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/albums by 0.12030529975891113
+2020-09-24T22:05:39.779843+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/todos
+2020-09-24T22:05:39.895117+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/todos by 0.11527347564697266
+2020-09-24T22:05:39.895117+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:05:39.896112+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\3'
+2020-09-24T22:05:39.896112+0300 - INFO - __main__ - Start parsing for Julianne.OConner@kory.org
+2020-09-24T22:05:39.896112+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/posts
+2020-09-24T22:05:40.066782+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/posts by 0.1706705093383789
+2020-09-24T22:05:40.066782+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/albums
+2020-09-24T22:05:40.181424+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/albums by 0.11464166641235352
+2020-09-24T22:05:40.181424+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/todos
+2020-09-24T22:05:40.318348+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/todos by 0.13692378997802734
+2020-09-24T22:05:40.318348+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:05:40.318348+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\4'
+2020-09-24T22:05:40.319373+0300 - INFO - __main__ - Start parsing for Lucio_Hettinger@annie.ca
+2020-09-24T22:05:40.319373+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/posts
+2020-09-24T22:05:40.457090+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/posts by 0.13771677017211914
+2020-09-24T22:05:40.457090+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/albums
+2020-09-24T22:05:40.586232+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/albums by 0.12914204597473145
+2020-09-24T22:05:40.587195+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/todos
+2020-09-24T22:05:40.731693+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/todos by 0.14449810981750488
+2020-09-24T22:05:40.731693+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:05:40.732684+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\5'
+2020-09-24T22:05:40.732684+0300 - INFO - __main__ - Start parsing for Karley_Dach@jasper.info
+2020-09-24T22:05:40.732684+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/posts
+2020-09-24T22:05:40.848066+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/posts by 0.11538219451904297
+2020-09-24T22:05:40.848066+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/albums
+2020-09-24T22:05:40.954521+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/albums by 0.10645461082458496
+2020-09-24T22:05:40.954521+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/todos
+2020-09-24T22:05:41.067279+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/todos by 0.11275839805603027
+2020-09-24T22:05:41.067279+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:05:41.068276+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\6'
+2020-09-24T22:05:41.068276+0300 - INFO - __main__ - Start parsing for Telly.Hoeger@billy.biz
+2020-09-24T22:05:41.068276+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/posts
+2020-09-24T22:05:41.170058+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/posts by 0.10178208351135254
+2020-09-24T22:05:41.170058+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/albums
+2020-09-24T22:05:41.290731+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/albums by 0.12067270278930664
+2020-09-24T22:05:41.290731+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/todos
+2020-09-24T22:05:41.437618+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/todos by 0.14688777923583984
+2020-09-24T22:05:41.438612+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:05:41.438612+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\7'
+2020-09-24T22:05:41.438612+0300 - INFO - __main__ - Start parsing for Sherwood@rosamond.me
+2020-09-24T22:05:41.438612+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/posts
+2020-09-24T22:05:41.547505+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/posts by 0.10889244079589844
+2020-09-24T22:05:41.548473+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/albums
+2020-09-24T22:05:41.667003+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/albums by 0.1185297966003418
+2020-09-24T22:05:41.667003+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/todos
+2020-09-24T22:05:41.772491+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/todos by 0.10548782348632812
+2020-09-24T22:05:41.773485+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:05:41.773485+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\8'
+2020-09-24T22:05:41.773485+0300 - INFO - __main__ - Start parsing for Chaim_McDermott@dana.io
+2020-09-24T22:05:41.773485+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/posts
+2020-09-24T22:05:41.889193+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/posts by 0.1157078742980957
+2020-09-24T22:05:41.889193+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/albums
+2020-09-24T22:05:42.017656+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/albums by 0.1284635066986084
+2020-09-24T22:05:42.017656+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/todos
+2020-09-24T22:05:42.150889+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/todos by 0.13323235511779785
+2020-09-24T22:05:42.150889+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:05:42.150889+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\9'
+2020-09-24T22:05:42.151914+0300 - INFO - __main__ - Start parsing for Rey.Padberg@karina.biz
+2020-09-24T22:05:42.151914+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/posts
+2020-09-24T22:05:42.267996+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/posts by 0.11608219146728516
+2020-09-24T22:05:42.269017+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/albums
+2020-09-24T22:05:42.378524+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/albums by 0.10950803756713867
+2020-09-24T22:05:42.379522+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/todos
+2020-09-24T22:05:42.480203+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/todos by 0.10068154335021973
+2020-09-24T22:05:42.481171+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:05:42.482184+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\10'
+2020-09-24T22:06:51.211542+0300 - INFO - __main__ - Open emails file emails.csv
+2020-09-24T22:06:51.211542+0300 - INFO - __main__ - Reading data...
+2020-09-24T22:06:51.211542+0300 - INFO - __main__ - Data successfully read
+2020-09-24T22:06:51.211542+0300 - INFO - __main__ - Collecting data about users
+2020-09-24T22:06:51.212540+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users
+2020-09-24T22:06:51.353163+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users by 0.1406233310699463
+2020-09-24T22:06:51.353163+0300 - INFO - __main__ - Start collecting data for 10 users
+2020-09-24T22:06:51.354161+0300 - INFO - __main__ - Start parsing for Sincere@april.biz
+2020-09-24T22:06:51.354161+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/posts
+2020-09-24T22:06:51.991597+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/posts by 0.6374366283416748
+2020-09-24T22:06:51.991597+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/albums
+2020-09-24T22:06:52.818422+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/albums by 0.8268246650695801
+2020-09-24T22:06:52.818422+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/todos
+2020-09-24T22:06:52.931269+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/todos by 0.11284756660461426
+2020-09-24T22:06:52.931269+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:06:52.932291+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\1'
+2020-09-24T22:06:52.932291+0300 - INFO - __main__ - Start parsing for Shanna@melissa.tv
+2020-09-24T22:06:52.932291+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/posts
+2020-09-24T22:06:53.035766+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/posts by 0.10347485542297363
+2020-09-24T22:06:53.035766+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/albums
+2020-09-24T22:06:53.161076+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/albums by 0.12531018257141113
+2020-09-24T22:06:53.161076+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/todos
+2020-09-24T22:06:53.274065+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/todos by 0.11298942565917969
+2020-09-24T22:06:53.275060+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:06:53.275060+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\2'
+2020-09-24T22:06:53.275060+0300 - INFO - __main__ - Start parsing for Nathan@yesenia.net
+2020-09-24T22:06:53.275060+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/posts
+2020-09-24T22:06:53.434856+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/posts by 0.15979576110839844
+2020-09-24T22:06:53.434856+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/albums
+2020-09-24T22:06:53.569524+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/albums by 0.13466835021972656
+2020-09-24T22:06:53.569524+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/todos
+2020-09-24T22:06:53.680066+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/todos by 0.11054158210754395
+2020-09-24T22:06:53.680066+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:06:53.681063+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\3'
+2020-09-24T22:06:53.681063+0300 - INFO - __main__ - Start parsing for Julianne.OConner@kory.org
+2020-09-24T22:06:53.681063+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/posts
+2020-09-24T22:06:53.793107+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/posts by 0.11204361915588379
+2020-09-24T22:06:53.794102+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/albums
+2020-09-24T22:06:53.916073+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/albums by 0.12197113037109375
+2020-09-24T22:06:53.916073+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/todos
+2020-09-24T22:06:54.020469+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/todos by 0.10439538955688477
+2020-09-24T22:06:54.020469+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:06:54.020469+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\4'
+2020-09-24T22:06:54.021493+0300 - INFO - __main__ - Start parsing for Lucio_Hettinger@annie.ca
+2020-09-24T22:06:54.021493+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/posts
+2020-09-24T22:06:54.123596+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/posts by 0.10210299491882324
+2020-09-24T22:06:54.123596+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/albums
+2020-09-24T22:06:54.230493+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/albums by 0.10689663887023926
+2020-09-24T22:06:54.230493+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/todos
+2020-09-24T22:06:54.341643+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/todos by 0.11115002632141113
+2020-09-24T22:06:54.342639+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:06:54.342639+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\5'
+2020-09-24T22:06:54.342639+0300 - INFO - __main__ - Start parsing for Karley_Dach@jasper.info
+2020-09-24T22:06:54.342639+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/posts
+2020-09-24T22:06:54.463779+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/posts by 0.1211400032043457
+2020-09-24T22:06:54.463779+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/albums
+2020-09-24T22:06:54.581013+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/albums by 0.1172337532043457
+2020-09-24T22:06:54.581013+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/todos
+2020-09-24T22:06:54.689755+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/todos by 0.10874295234680176
+2020-09-24T22:06:54.690719+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:06:54.690719+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\6'
+2020-09-24T22:06:54.690719+0300 - INFO - __main__ - Start parsing for Telly.Hoeger@billy.biz
+2020-09-24T22:06:54.690719+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/posts
+2020-09-24T22:06:54.814774+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/posts by 0.1240546703338623
+2020-09-24T22:06:54.814774+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/albums
+2020-09-24T22:06:54.936320+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/albums by 0.12154650688171387
+2020-09-24T22:06:54.937285+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/todos
+2020-09-24T22:06:55.060453+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/todos by 0.1231682300567627
+2020-09-24T22:06:55.060453+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:06:55.061479+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\7'
+2020-09-24T22:06:55.061479+0300 - INFO - __main__ - Start parsing for Sherwood@rosamond.me
+2020-09-24T22:06:55.061479+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/posts
+2020-09-24T22:06:55.229031+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/posts by 0.16755270957946777
+2020-09-24T22:06:55.229031+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/albums
+2020-09-24T22:06:55.355278+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/albums by 0.12624621391296387
+2020-09-24T22:06:55.355278+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/todos
+2020-09-24T22:06:55.476048+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/todos by 0.12077021598815918
+2020-09-24T22:06:55.477045+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:06:55.477045+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\8'
+2020-09-24T22:06:55.478043+0300 - INFO - __main__ - Start parsing for Chaim_McDermott@dana.io
+2020-09-24T22:06:55.478043+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/posts
+2020-09-24T22:06:55.584732+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/posts by 0.10668826103210449
+2020-09-24T22:06:55.585729+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/albums
+2020-09-24T22:06:55.695586+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/albums by 0.10985660552978516
+2020-09-24T22:06:55.696557+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/todos
+2020-09-24T22:06:55.820002+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/todos by 0.1234445571899414
+2020-09-24T22:06:55.820961+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:06:55.820961+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\9'
+2020-09-24T22:06:55.820961+0300 - INFO - __main__ - Start parsing for Rey.Padberg@karina.biz
+2020-09-24T22:06:55.821995+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/posts
+2020-09-24T22:06:55.930194+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/posts by 0.10819888114929199
+2020-09-24T22:06:55.930194+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/albums
+2020-09-24T22:06:56.041602+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/albums by 0.11140799522399902
+2020-09-24T22:06:56.041602+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/todos
+2020-09-24T22:06:56.151068+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/todos by 0.1094658374786377
+2020-09-24T22:06:56.151068+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:06:56.152064+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\10'
+2020-09-24T22:08:02.659760+0300 - INFO - __main__ - Open emails file emails.csv
+2020-09-24T22:08:02.660760+0300 - INFO - __main__ - Reading data...
+2020-09-24T22:08:02.660760+0300 - INFO - __main__ - Data successfully read
+2020-09-24T22:08:02.661755+0300 - INFO - __main__ - Collecting data about users
+2020-09-24T22:08:02.661755+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users
+2020-09-24T22:08:02.741049+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users by 0.07929420471191406
+2020-09-24T22:08:02.742046+0300 - INFO - __main__ - Start collecting data for 10 users
+2020-09-24T22:08:02.742046+0300 - INFO - __main__ - Start parsing for Sincere@april.biz
+2020-09-24T22:08:17.846880+0300 - INFO - __main__ - Open emails file emails.csv
+2020-09-24T22:08:17.847876+0300 - INFO - __main__ - Reading data...
+2020-09-24T22:08:17.847876+0300 - INFO - __main__ - Data successfully read
+2020-09-24T22:08:17.847876+0300 - INFO - __main__ - Collecting data about users
+2020-09-24T22:08:17.848846+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users
+2020-09-24T22:08:17.919925+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users by 0.07107925415039062
+2020-09-24T22:08:17.919925+0300 - INFO - __main__ - Start collecting data for 10 users
+2020-09-24T22:08:17.920923+0300 - INFO - __main__ - Start parsing for Sincere@april.biz
+2020-09-24T22:08:17.920923+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/posts
+2020-09-24T22:08:17.983780+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/posts by 0.06285691261291504
+2020-09-24T22:08:17.983780+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/albums
+2020-09-24T22:08:18.078815+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/albums by 0.09503579139709473
+2020-09-24T22:08:18.079814+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/todos
+2020-09-24T22:08:18.151133+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/todos by 0.0713198184967041
+2020-09-24T22:08:21.146249+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:08:25.515767+0300 - ERROR - __main__ - Error while creating new dir! Error: [WinError 183] Невозможно создать файл, так как он уже существует: '.\\users\\1'
+2020-09-24T22:12:03.903774+0300 - INFO - __main__ - Open emails file emails.csv
+2020-09-24T22:12:03.903774+0300 - INFO - __main__ - Reading data...
+2020-09-24T22:12:03.904772+0300 - INFO - __main__ - Data successfully read
+2020-09-24T22:12:03.904772+0300 - INFO - __main__ - Collecting data about users
+2020-09-24T22:12:03.904772+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users
+2020-09-24T22:12:03.978962+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users by 0.07419013977050781
+2020-09-24T22:12:03.978962+0300 - INFO - __main__ - Start collecting data for 10 users
+2020-09-24T22:12:03.978962+0300 - INFO - __main__ - Start parsing for Sincere@april.biz
+2020-09-24T22:12:03.978962+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/posts
+2020-09-24T22:12:04.022908+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/posts by 0.0439455509185791
+2020-09-24T22:12:04.023906+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/albums
+2020-09-24T22:12:04.072768+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/albums by 0.04886174201965332
+2020-09-24T22:12:04.073733+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/todos
+2020-09-24T22:12:04.127753+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/todos by 0.05402040481567383
+2020-09-24T22:12:04.127753+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:12:04.128748+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:12:04.130716+0300 - INFO - __main__ - Start parsing for Shanna@melissa.tv
+2020-09-24T22:12:04.130716+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/posts
+2020-09-24T22:12:04.193682+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/posts by 0.06296658515930176
+2020-09-24T22:12:04.193682+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/albums
+2020-09-24T22:12:04.250691+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/albums by 0.057009220123291016
+2020-09-24T22:12:04.250691+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/todos
+2020-09-24T22:12:04.302308+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/todos by 0.05161690711975098
+2020-09-24T22:12:04.302308+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:12:04.303297+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:12:04.304296+0300 - INFO - __main__ - Start parsing for Nathan@yesenia.net
+2020-09-24T22:12:04.305269+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/posts
+2020-09-24T22:12:04.352483+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/posts by 0.04721403121948242
+2020-09-24T22:12:04.352483+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/albums
+2020-09-24T22:12:04.405478+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/albums by 0.0529942512512207
+2020-09-24T22:12:04.405478+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/todos
+2020-09-24T22:12:04.452348+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/todos by 0.04686999320983887
+2020-09-24T22:12:04.453344+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:12:04.453344+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:12:04.454341+0300 - INFO - __main__ - Start parsing for Julianne.OConner@kory.org
+2020-09-24T22:12:04.455314+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/posts
+2020-09-24T22:12:04.501271+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/posts by 0.04595685005187988
+2020-09-24T22:12:04.501271+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/albums
+2020-09-24T22:12:04.560069+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/albums by 0.05879831314086914
+2020-09-24T22:12:04.560069+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/todos
+2020-09-24T22:12:04.608434+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/todos by 0.048365116119384766
+2020-09-24T22:12:04.608434+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:12:04.609461+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:12:04.610456+0300 - INFO - __main__ - Start parsing for Lucio_Hettinger@annie.ca
+2020-09-24T22:12:04.610456+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/posts
+2020-09-24T22:12:04.690101+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/posts by 0.07964539527893066
+2020-09-24T22:12:04.690101+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/albums
+2020-09-24T22:12:04.738111+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/albums by 0.048009634017944336
+2020-09-24T22:12:04.738111+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/todos
+2020-09-24T22:12:04.789972+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/todos by 0.05186104774475098
+2020-09-24T22:12:04.790969+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:12:04.790969+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:12:04.791966+0300 - INFO - __main__ - Start parsing for Karley_Dach@jasper.info
+2020-09-24T22:12:04.792964+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/posts
+2020-09-24T22:12:04.839892+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/posts by 0.04692721366882324
+2020-09-24T22:12:04.839892+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/albums
+2020-09-24T22:12:04.890757+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/albums by 0.05086517333984375
+2020-09-24T22:12:04.891754+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/todos
+2020-09-24T22:12:04.943265+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/todos by 0.05151057243347168
+2020-09-24T22:12:04.943265+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:12:04.944291+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:12:04.945288+0300 - INFO - __main__ - Start parsing for Telly.Hoeger@billy.biz
+2020-09-24T22:12:04.945288+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/posts
+2020-09-24T22:12:04.993131+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/posts by 0.04784393310546875
+2020-09-24T22:12:04.993131+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/albums
+2020-09-24T22:12:05.072198+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/albums by 0.07906699180603027
+2020-09-24T22:12:05.072198+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/todos
+2020-09-24T22:12:05.120071+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/todos by 0.04787278175354004
+2020-09-24T22:12:05.121067+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:12:05.121067+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:12:05.122065+0300 - INFO - __main__ - Start parsing for Sherwood@rosamond.me
+2020-09-24T22:12:05.123062+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/posts
+2020-09-24T22:12:05.169979+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/posts by 0.04691672325134277
+2020-09-24T22:12:05.169979+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/albums
+2020-09-24T22:12:05.223796+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/albums by 0.05381655693054199
+2020-09-24T22:12:05.224791+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/todos
+2020-09-24T22:12:05.272933+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/todos by 0.0481417179107666
+2020-09-24T22:12:05.272933+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:12:05.272933+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:12:05.274927+0300 - INFO - __main__ - Start parsing for Chaim_McDermott@dana.io
+2020-09-24T22:12:05.274927+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/posts
+2020-09-24T22:12:05.404087+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/posts by 0.12915968894958496
+2020-09-24T22:12:05.404087+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/albums
+2020-09-24T22:12:05.457908+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/albums by 0.05382084846496582
+2020-09-24T22:12:05.457908+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/todos
+2020-09-24T22:12:05.507574+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/todos by 0.049666643142700195
+2020-09-24T22:12:05.508569+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:12:05.508569+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:12:05.509569+0300 - INFO - __main__ - Start parsing for Rey.Padberg@karina.biz
+2020-09-24T22:12:05.510536+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/posts
+2020-09-24T22:12:05.563976+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/posts by 0.053440093994140625
+2020-09-24T22:12:05.563976+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/albums
+2020-09-24T22:12:05.608733+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/albums by 0.04475665092468262
+2020-09-24T22:12:05.608733+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/todos
+2020-09-24T22:12:05.655874+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/todos by 0.04614400863647461
+2020-09-24T22:12:05.655874+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:12:05.655874+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:13:47.668413+0300 - INFO - __main__ - Open emails file emails.csv
+2020-09-24T22:13:47.668413+0300 - INFO - __main__ - Reading data...
+2020-09-24T22:13:47.668413+0300 - INFO - __main__ - Data successfully read
+2020-09-24T22:13:47.668413+0300 - INFO - __main__ - Collecting data about users
+2020-09-24T22:13:47.668413+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users
+2020-09-24T22:13:48.133871+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users by 0.4654579162597656
+2020-09-24T22:13:48.133871+0300 - INFO - __main__ - Start collecting data for 10 users
+2020-09-24T22:13:48.134868+0300 - INFO - __main__ - Start parsing for Sincere@april.biz
+2020-09-24T22:13:48.134868+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/posts
+2020-09-24T22:13:48.187995+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/posts by 0.053125858306884766
+2020-09-24T22:13:48.187995+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/albums
+2020-09-24T22:13:48.419627+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/albums by 0.23163247108459473
+2020-09-24T22:13:48.419627+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/1/todos
+2020-09-24T22:13:48.474450+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/1/todos by 0.05482292175292969
+2020-09-24T22:13:48.474450+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:13:48.474450+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:13:48.476473+0300 - INFO - __main__ - Start parsing for Shanna@melissa.tv
+2020-09-24T22:13:48.476473+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/posts
+2020-09-24T22:13:48.537755+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/posts by 0.06128215789794922
+2020-09-24T22:13:48.538753+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/albums
+2020-09-24T22:13:48.587760+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/albums by 0.04900717735290527
+2020-09-24T22:13:48.588728+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/2/todos
+2020-09-24T22:13:48.638837+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/2/todos by 0.0501093864440918
+2020-09-24T22:13:48.638837+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:13:48.639834+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:13:48.640832+0300 - INFO - __main__ - Start parsing for Nathan@yesenia.net
+2020-09-24T22:13:48.641829+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/posts
+2020-09-24T22:13:49.050737+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/posts by 0.4089076519012451
+2020-09-24T22:13:49.050737+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/albums
+2020-09-24T22:13:49.122544+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/albums by 0.071807861328125
+2020-09-24T22:13:49.123542+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/3/todos
+2020-09-24T22:13:49.235271+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/3/todos by 0.11172914505004883
+2020-09-24T22:13:49.236240+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:13:49.236240+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:13:49.237237+0300 - INFO - __main__ - Start parsing for Julianne.OConner@kory.org
+2020-09-24T22:13:49.238236+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/posts
+2020-09-24T22:13:49.304060+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/posts by 0.06582379341125488
+2020-09-24T22:13:49.304060+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/albums
+2020-09-24T22:13:49.357272+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/albums by 0.05321192741394043
+2020-09-24T22:13:49.358268+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/4/todos
+2020-09-24T22:13:49.420329+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/4/todos by 0.06206083297729492
+2020-09-24T22:13:49.421327+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:13:49.421327+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:13:49.422324+0300 - INFO - __main__ - Start parsing for Lucio_Hettinger@annie.ca
+2020-09-24T22:13:49.423321+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/posts
+2020-09-24T22:13:49.478175+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/posts by 0.05485391616821289
+2020-09-24T22:13:49.478175+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/albums
+2020-09-24T22:13:49.557961+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/albums by 0.07978630065917969
+2020-09-24T22:13:49.557961+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/5/todos
+2020-09-24T22:13:49.610820+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/5/todos by 0.052858829498291016
+2020-09-24T22:13:49.610820+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:13:49.610820+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:13:49.612815+0300 - INFO - __main__ - Start parsing for Karley_Dach@jasper.info
+2020-09-24T22:13:49.612815+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/posts
+2020-09-24T22:13:49.667669+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/posts by 0.05485367774963379
+2020-09-24T22:13:49.667669+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/albums
+2020-09-24T22:13:49.718532+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/albums by 0.05086350440979004
+2020-09-24T22:13:49.718532+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/6/todos
+2020-09-24T22:13:49.769531+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/6/todos by 0.05099797248840332
+2020-09-24T22:13:49.769531+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:13:49.769531+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:13:49.771524+0300 - INFO - __main__ - Start parsing for Telly.Hoeger@billy.biz
+2020-09-24T22:13:49.771524+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/posts
+2020-09-24T22:13:49.832370+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/posts by 0.060846567153930664
+2020-09-24T22:13:49.832370+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/albums
+2020-09-24T22:13:49.892475+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/albums by 0.060105085372924805
+2020-09-24T22:13:49.892475+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/7/todos
+2020-09-24T22:13:49.946823+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/7/todos by 0.05434775352478027
+2020-09-24T22:13:49.946823+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:13:49.947848+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:13:49.948845+0300 - INFO - __main__ - Start parsing for Sherwood@rosamond.me
+2020-09-24T22:13:49.948845+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/posts
+2020-09-24T22:13:50.005693+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/posts by 0.05684804916381836
+2020-09-24T22:13:50.005693+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/albums
+2020-09-24T22:13:50.060842+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/albums by 0.05514836311340332
+2020-09-24T22:13:50.060842+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/8/todos
+2020-09-24T22:13:50.113661+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/8/todos by 0.05281972885131836
+2020-09-24T22:13:50.114683+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:13:50.114683+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:13:50.116653+0300 - INFO - __main__ - Start parsing for Chaim_McDermott@dana.io
+2020-09-24T22:13:50.116653+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/posts
+2020-09-24T22:13:50.170264+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/posts by 0.05361056327819824
+2020-09-24T22:13:50.170264+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/albums
+2020-09-24T22:13:50.225414+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/albums by 0.055150508880615234
+2020-09-24T22:13:50.226373+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/9/todos
+2020-09-24T22:13:50.287382+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/9/todos by 0.06100916862487793
+2020-09-24T22:13:50.287382+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:13:50.288368+0300 - ERROR - __main__ - Directory already exists
+2020-09-24T22:13:50.289338+0300 - INFO - __main__ - Start parsing for Rey.Padberg@karina.biz
+2020-09-24T22:13:50.289338+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/posts
+2020-09-24T22:13:50.339204+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/posts by 0.0498661994934082
+2020-09-24T22:13:50.339204+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/albums
+2020-09-24T22:13:50.394087+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/albums by 0.054883480072021484
+2020-09-24T22:13:50.394087+0300 - INFO - __main__ - Starts to collecting data from https://jsonplaceholder.typicode.com/users/10/todos
+2020-09-24T22:13:50.449843+0300 - INFO - __main__ - Successfully collect all data from https://jsonplaceholder.typicode.com/users/10/todos by 0.0557558536529541
+2020-09-24T22:13:50.449843+0300 - INFO - __main__ - Creating new dir...
+2020-09-24T22:13:50.450838+0300 - ERROR - __main__ - Directory already exists
